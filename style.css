@@ -1,0 +1,14 @@
+
+th{
+    background-color: aqua;
+    font-size: 25px;
+}
+caption{
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+}
+td{
+    font-size: 20px;
+    background-color: bisque;
+}
